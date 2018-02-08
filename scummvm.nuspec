@@ -6,6 +6,7 @@
     <title>ScummVM</title>
     <authors>ScummVM Team</authors>
     <owners>dixone</owners>
+    <packageSourceUrl>https://github.com/jgripe/chocolatey-scummvm-package.git</packageSourceUrl>
     <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <projectUrl>http://scummvm.org/</projectUrl>
     <iconUrl>http://scummvm.org/images/scummvm_logo.jpg</iconUrl>
