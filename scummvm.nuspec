@@ -5,7 +5,7 @@
     <version>2.0.0</version>
     <title>ScummVM</title>
     <authors>ScummVM Team</authors>
-    <owners>Vincent</owners>
+    <owners>dixone</owners>
     <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
     <projectUrl>http://scummvm.org/</projectUrl>
     <iconUrl>http://scummvm.org/images/scummvm_logo.jpg</iconUrl>
