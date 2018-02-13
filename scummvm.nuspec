@@ -12,9 +12,12 @@
     <iconUrl>http://scummvm.org/images/scummvm_logo.jpg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games, provided you already have their data files. The clever part about this: ScummVM just replaces the executables shipped with the games, allowing you to play them on systems for which they were never designed!</description>
-    <summary>scummvm</summary>
+    <summary>engine for several graphical adventure games</summary>
     <releaseNotes>https://www.scummvm.org/news/20171217/</releaseNotes>
-    <copyright />
+    <docsUrl>https://www.scummvm.org/documentation/</docsUrl>
+    <mailingListUrl>http://forums.scummvm.org/</mailingListUrl>
+    <bugTrackerUrl>http://bugs.scummvm.org/</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/scummvm/scummvm</projectSourceUrl>
     <tags>game games emulator lucasarts adventure scumm</tags>
   </metadata>
 </package>
